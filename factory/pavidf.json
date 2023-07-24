@@ -1,0 +1,9 @@
+{
+	"name": "pavidf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cadad8d8-d657-463d-ac77-b01ca660bc16",
+		"tenantId": "4fbc9999-9047-465e-874d-f10665039227"
+	}
+}
